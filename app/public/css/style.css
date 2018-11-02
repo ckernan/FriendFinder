@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Leckerli+One');
+
+.jumbotron {
+    background-image: url("../images/best-friend.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#logo {
+    font-family: 'Leckerli One', sans-serif;
+    font-size: 64px;
+    margin: 30px;
+}
+  
+.btn-danger {
+    margin-bottom: 330px;
+}
+  
+body {
+    background: black;
+}
+  
+.survey {
+    background: #7BCCC8;
+}
+  
+i {
+    margin-right: 10px;
+}
+  
+#logo,
+#caption {
+    text-shadow: 1px 1px 1px #303030;
+}
+  
+h4 {
+    margin-top: 10px;
+}
+
+  
