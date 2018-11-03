@@ -13,8 +13,8 @@ app.use(bodyParser.json());
 app.use(express.static(__dirname + '/app/public'));
 
 //ROUTES
-// require('./app/routing/apiRoutes.js')(app);
-// require('./app/routing/htmlRoutes.js')(app);
+require('./app/routing/apiRoutes.js')(app);
+require('./app/routing/htmlRoutes.js')(app);
 
 //START SERVER LISTENING
 app.listen(PORT, function() {
