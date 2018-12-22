@@ -14,7 +14,7 @@ The most compatible friend will be the user with the lowest total difference. On
 
 ## Preview 
 
-![Friend Finder gif](/public/images/FriendFinder.gif)
+![Friend Finder gif](/app/public/images/FriendFinder.gif)
 
 
 ## Built With
