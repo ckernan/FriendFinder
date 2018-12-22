@@ -1,6 +1,6 @@
 # Friend Finder
 
-Friend Finder is a SpongeBob SquarePants themed, compatibility-based full-stack application using Node.js and Express. After filling out a short 10 question survey, your answers will be compared to those from other users. The app will then display the name and picture of the user with the best overall match, a.k.a your new best friend! 
+Friend Finder is a SpongeBob SquarePants themed, compatibility-based full-stack application using Node.js and Express. After filling out a short 10 question survey, your answers will be compared to those from other users. The app will then display the name and picture of the user with the best overall match, a.k.a your new best friend! Access the Heroku deployed app [here](https://friend-matching-app.herokuapp.com/).
 
 ## How It Works
 
